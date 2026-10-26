@@ -1,7 +1,5 @@
 # Programa Java: Arreglo de 23 números
 
-```
-
 <img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb77c988-3073-49cc-ad0c-5b31611cc8f2" />    
 ```
 
